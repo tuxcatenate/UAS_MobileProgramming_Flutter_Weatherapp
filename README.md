@@ -4,7 +4,7 @@ Repository khusus untuk proyek UAS Mobile Programming. Aplikasi yang dikembangka
 tuxcatenate - Devid Sumarlie (535180008)
 
 first changelog (29/05/2022) :
-changelog perubahan program hari ini dri gw :
+changelog perubahan program hari ini dri 535180008 :
 - perubahan warna ( sekedar test) untuk box yang berisi konten humidity dan wind speed di menu utama
 - properti beberapa layout ada yg dirubah
 - sudah ada info hari di upper side (hanya sebatas sun artinya sunday) 
@@ -12,4 +12,4 @@ changelog perubahan program hari ini dri gw :
 - ikon max/min temperatur blom ada 
 - penghapusan tombol gulir(sliding) untuk pindah halaman ke kanan ( bentrokan soalnya atau overlapping sma komponen lain jdi hasilnya jelek)
 - perlu tambah menu terpisah untuk yg sliding tdi 
-- API ada 3 fungsi terpisah(weather & dailiWeather,  weatherprovider inti dri narik API nya), yang di menu slide sebelah kanan ( yg ada 7 days forecast dan todays detail ) itu bisa jalan utk humidity dan lainnya , tpi kalo humitiy mau dipindah ke halaman home, msih belum nemu fix buat problem fungsi return datanya
+- API ada 3 fungsi terpisah(weather & dailYWeather,  weatherprovider inti dri narik API nya), yang di menu slide sebelah kanan ( yg ada 7 days forecast dan todays detail ) itu bisa jalan utk humidity dan lainnya , tpi kalo humitiy mau dipindah ke halaman home, msih belum nemu fix buat problem fungsi return datanya
